@@ -3,4 +3,4 @@ Projeto desenvolvido para o final no módulo 1 do curso Full Stack da Kenzie Aca
 HTML, CSS e JavaScript
 
 
-Features: cards inseridos dinamicamente pelo DOM, adicionar e remover do carrinho, contagem e soma dos valores que estão no carrinho, filtro por tag e pesquisa.
+Features: cards inseridos na vitrine de forma dinamica pelo DOM, adicionar e remover do carrinho, contagem e soma dos valores que estão no carrinho, filtro por tag e pesquisa.
